@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Management](https://business.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes Financial Mathematics, Machine Learning, Optimazation, TimeSeries Analysis, Financial Engeering.
+I'm a third year undergraduate student from [School of Management](https://business.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes Financial Mathematics, Machine Learning, Optimazation, TimeSeries Analysis, Financial Engeering, Behavioral Finance.
 
 You can find my CV here: [Coke's Curriculum Vitae](../assets/MyCV.pdf).
 
