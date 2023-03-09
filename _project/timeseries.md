@@ -9,5 +9,3 @@ paperurl: 'http://academicpages.github.io/files/TimeSeries_Porject.pdf'
 This paper is a reproduction of Threshold ARMA model and its application in financial data. 
 
 [Download project here](http://academicpages.github.io/files/TimeSeries_Porject.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
