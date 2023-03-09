@@ -9,6 +9,8 @@ date: 2023-1-19
 paperurl: 'http://cokezyj.github.io/assets/TimeSeries_Analysis_Porject.pdf'
 ---
 
+{% include base_path %}
+
 This paper is a reproduction of Threshold ARMA model and its application in financial data. 
 
 [Download project here](http://cokezyj.github.io/assets/TimeSeries_Analysis_Porject.pdf)
