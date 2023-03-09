@@ -15,13 +15,13 @@ Education
 
 
 Work experience
-
+======
   
 Skills
 ======
 * R
 * Statistics
-  * Convex Optimazation
+  * Convex Optimization
   * Some theory ML(based on ESL)
   * Regression/ TimeSeries
   * Financial Derivative(audit Graduate course 2023Spring)
