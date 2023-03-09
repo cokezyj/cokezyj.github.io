@@ -187,7 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  project:
+    output:true
+    permalink:/:collection/:path/
 
 # Defaults
 defaults:
@@ -240,6 +242,14 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+   # _project
+  - scope:
+      path: ""
+      type: project
     values:
       layout: talk
       author_profile: true
