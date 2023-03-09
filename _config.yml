@@ -188,8 +188,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   project:
-    output:true
-    permalink:/:collection/:path/
+    output: true
+    permalink: /:collection/:path/  
 
 # Defaults
 defaults:
