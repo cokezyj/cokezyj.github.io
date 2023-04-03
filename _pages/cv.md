@@ -25,7 +25,8 @@ Project experience
 
 Skills
 ======
-* R
+* Toefl 94 (2021.11)
+* Intermediate R & Python & LATEX
 * Statistics
   * Convex Optimization （87/100）
   * Some theory ML(based on ESL) （90/100）
@@ -36,8 +37,10 @@ Skills
   * Real Analysis & Complex Analysis
   * Basic Data Structure & data base (92/100)
   * Stochastic Analysis(audit Graduate course 2023Spring)
-* Fitness/ Tennis
-
+  * etc
+* Fitness/ Tennis/ Cooking
+  * Those are all relaxations during leisure time
+  
 Publications
 ======
 
